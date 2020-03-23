@@ -1,0 +1,28 @@
+1
+40.0
+50
+8
+20
+Bob Willis
+area_one
+20
+20
+50
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+archer
+False
+Beginner Bow
+1
+0
+0
+1
+0

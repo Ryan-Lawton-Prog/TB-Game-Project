@@ -1,0 +1,7 @@
+Beginner Sword,1,0,warrior
+Magnificent Greater Wand,1,8,archer
+Duelist Wand,1,8,archer
+Longsword,1,8,warrior
+Mentor Wand,1,9,archer
+Mentor Wand(1),1,17,archer
+Longshot Bow,1,9,mage

@@ -1,0 +1,5 @@
+Beginner Sword,1,0,warrior,0,0,0,0,0
+Battle Bow of Destiny,1,18,archer,0,3,0,0,3
+Sticky Axe,1,7,warrior,0,0,0,0,0
+Faithful Axe,1,7,warrior,0,0,0,0,0
+Strong Staff,1,8,mage,0,0,0,0,0

@@ -1,0 +1,3 @@
+Beginner Sword,1,0,warrior
+Beginner Staff,1,0,mage
+Beginner Bow,1,0,archer
